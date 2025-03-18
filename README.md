@@ -78,3 +78,8 @@ In essence:
 
   Both techniques address the challenge of LLMs generating inaccurate or outdated information by grounding their responses in 
   external data. They simply use different forms of external data.
+
+  How to Implement Tag:
+
+  ![image](https://github.com/user-attachments/assets/5056fd3e-b323-4331-9ae7-9dbf6f604a24)
+
